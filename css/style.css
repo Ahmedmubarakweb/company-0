@@ -12,7 +12,7 @@
 }
 /*start header*/
 header{
-    background-image:url("..images/header.jpg");
+    background-image:url("../images/header.jpg");
     background-size: cover;
     background-attachment: fixed; 
     height: auto;
@@ -203,7 +203,7 @@ border-radius:30px;
 
 /*start testmonials*/
 .testimonials{
-    background:url("..images/testimonials.jpg");
+    background:url("../images/testimonials.jpg");
     background-attachment: fixed;
     background-size: cover;
     height:350px;
@@ -291,7 +291,7 @@ margin:20px auto 20px;
 }
 /*start contact us*/
 .contact-us{
-    background:url("..images/contact-us.jpg");
+    background:url("../images/contact-us.jpg");
     background-size: cover;
     background-attachment: fixed;
     height:600px;
