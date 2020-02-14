@@ -12,7 +12,7 @@
 }
 /*start header*/
 header{
-    background-image:url("..css/images/header.jpg");
+    background-image:url("../css/images/header.jpg");
     background-size: cover;
     background-attachment: fixed; 
     height: auto;
